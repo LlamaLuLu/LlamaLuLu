@@ -7,7 +7,7 @@ Final-year Electrical & Computer Engineering student (UCT) working across softwa
 | Area | Detail |
 |---|---|
 | Software engineering | Backend APIs, event-driven systems (AWS Lambda/SNS/SES), mobile apps |
-| Embedded & hardware | Digital design (Verilog), microcontrollers (Arduino/ESP32) |
+| Embedded & hardware | Digital design (C, Verilog), microcontrollers (STM/ESP32) |
 | Creative technology | Game development (Unity/C#), 3D modelling (Blender), AR/VR |
 | AI tooling | Agent workflows, currently building with Chevo Collective |
 
